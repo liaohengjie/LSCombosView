@@ -93,7 +93,7 @@
 
 - (void)actionOfTest{
     //
-    UIAlertView* alv = [[UIAlertView alloc] initWithTitle:@"" message:@"test" delegate:nil cancelButtonTitle:@"Done" otherButtonTitles: nil];
+    UIAlertView* alv = [[UIAlertView alloc] initWithTitle:@"" message:@"🎄圣诞快乐🎄" delegate:nil cancelButtonTitle:@"😁" otherButtonTitles: nil];
     [alv show];
 }
 
